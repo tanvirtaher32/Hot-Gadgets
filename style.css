@@ -1,0 +1,51 @@
+.container{
+    
+    margin-top: 40px;
+    
+    padding-bottom: 50px;
+}
+.button{
+    cursor: pointer;
+    background-image: linear-gradient(to bottom, #FF589B 0%, #FF136F 100%);
+    color: #fff;
+    border: none;
+    border-radius: 8px;
+    padding: 9px 25px;
+}
+.container h5{
+    text-align: center;
+}
+.buy{
+    cursor: pointer;
+    background-image: linear-gradient(to bottom, #000000 0%, #000000 100%);
+    color: #fff;
+    border: none;
+    border-radius: 8px;
+    padding: 9px 25px;
+}
+.p{
+    text-align: center;
+}
+.card{
+    box-shadow: 5px 5px 10px dimgray;
+    border-radius: 10px;
+    border: none;
+}
+.see{
+    text-align: right;
+    color: orangered;
+}
+span{
+    color: orangered;
+}
+.last{
+    text-align: center;
+    
+}
+.im{
+    height: 600px;
+    width: 650px;
+}
+footer{
+    text-align: center;
+}
